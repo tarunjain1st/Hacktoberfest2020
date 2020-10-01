@@ -32,3 +32,8 @@
 - Place: India
 - Bio: Student, currently in Lendi Institute of engineering and technology.
 - GitHub: [Nikhila-2001](https://github.com/NIKHILA-2001)
+
+#### Nsme: Yash
+- Place: India
+- Bio: Student , Currently Prepairing for JEE
+- Github:[yashqwerty1](https://github.com/yashqwerty1)
