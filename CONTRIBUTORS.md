@@ -32,3 +32,8 @@
 - Place: India
 - Bio: Student, currently in Lendi Institute of engineering and technology.
 - GitHub: [Nikhila-2001](https://github.com/NIKHILA-2001)
+
+#### Name: Daniel
+- Place: Miami, Fl, USA
+- Bio: Student, developer, solutions architect, pythonista, wonderboy
+- GitHub: [damora-code](https://github.com/damora-code)
