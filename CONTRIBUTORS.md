@@ -33,3 +33,7 @@
  - Bio: Having 3+ years of experience in Frontend developer. Currently working in Infosys as a UI developer
  - GitHub: [gopal1996](https://github.com/gopal1996)
 
+ #### Name: Ghiurcuta Andrei
+- Place: Romania.
+- Bio: Freelancer. Student.
+- GitHub: [AndreiG23](https://github.com/AndreiG23)
