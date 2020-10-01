@@ -32,3 +32,8 @@
 - Place: India
 - Bio: Student, currently in Lendi Institute of engineering and technology.
 - GitHub: [Nikhila-2001](https://github.com/NIKHILA-2001)
+
+#### Name: Kaline
+- Place: Brazil
+- Bio: Student, currently in Universidade Federal de São Carlos
+- GitHub: [nkalinesv](https://github.com/nayrakalinesv/)
