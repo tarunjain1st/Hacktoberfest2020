@@ -37,3 +37,8 @@
 - Place: Gothenburg, Sweden
 - Bio: Student, currently in Chalmers University of Technology
 - GitHub: [R-Jin](https://github.com/R-Jin)
+
+#### Name: Justin Clenista
+- Place: San Diego, California, USA
+- Bio: Software Engineer Intern
+- GitHub: [heyoitsJuice](https://github.com/heyoitsJuice)
