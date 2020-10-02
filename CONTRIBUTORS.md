@@ -1,50 +1,9 @@
-#### Name: Tarun Kumar Jain
-- Place: India.
-- Bio: Software engineer. Graduated from TMU, Moradabad.
-- GitHub: [tarunjain1st](https://github.com/tarunjain1st)
+#### Name: Justin Varghese
+- Place: East Delhi, India
+- Bio: Student, currently in class 9th
+- Github: [Justinnn07](https://github.com/Justinnn07)
 
-#### Name: Saurabh Singh
-- Place: India.
-- Bio: B.Tech Student
-- GitHub: [UnbiasedEagle](https://github.com/UnbiasedEagle)
-
-#### Name: [Anna Lewis]
-- Place: Denver, Colorado, USA
-- Bio: Software developer!
-- GitHub: [annnfrann]((https://github.com/annnfrann)
-
-#### Name: Manas Mhasakar
-- Place: Pune, Maharashtra, India
-- Bio: Sophmore, Computer Science Student @ BITS Goa
-- GitHub: [hazard4king](https://github.com/hazard4king)
-
-#### Name: Hrudai Koda
-- Place: India.
-- Bio: Student , IIIT Sricity.
-- GitHub: [hrudaikoda](https://github.com/hrudaikoda)
-
-#### Name: Weiyi Ma
-- Place: Singapore
-- Bio: Student, currently in Dunman High.
-- GitHub: [weiyi-m](https://github.com/weiyi-m)
-
-#### Name: Nikhila
-- Place: India
-- Bio: Student, currently in Lendi Institute of engineering and technology.
-- GitHub: [Nikhila-2001](https://github.com/NIKHILA-2001)
-
-
-#### Name: Pumpkinman008
-- Place: India
-- Bio: Student, currently in Mumbai University.
-- GitHub: [pupmkinman008](https://github.com/pumpkinman008)
-
-#### Name: Daniel
-- Place: Miami, Fl, USA
-- Bio: Student, developer, solutions architect, pythonista, wonderboy
-- GitHub: [damora-code](https://github.com/damora-code)
-
-#### Name: Shadman
+#### Name: Darshan Tawari
 - Place: India
 - Bio: Engineer
 - GitHub: [Shadmanwaris](https://github.com/Shadmanwaris)
@@ -84,4 +43,3 @@
 - Place: India.
 - Bio: B.Tech Student
 - GitHub: [OfficialNMN](https://github.com/OfficialNMN)
-
