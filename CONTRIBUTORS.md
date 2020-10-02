@@ -33,7 +33,29 @@
 - Bio: Student, currently in Lendi Institute of engineering and technology.
 - GitHub: [Nikhila-2001](https://github.com/NIKHILA-2001)
 
+
 #### Name: Mike
 - Place: United States
 - Bio: Software developer
 - GitHub: [hey-mikey](https://github.com/hey-mikey)
+
+#### Name: Kaline
+- Place: Brazil
+- Bio: Student, currently in Universidade Federal de São Carlos
+- GitHub: [nkalinesv](https://github.com/nayrakalinesv/)
+
+#### Name: Sreya Reddy
+- Place: India
+- Bio: Student, currently in Indian Institute of information technology
+- GitHub: [SreyaReddy15](https://github.com/sreyareddy15)
+
+#### Name: Ryan Jin
+- Place: Gothenburg, Sweden
+- Bio: Student, currently in Chalmers University of Technology
+- GitHub: [R-Jin](https://github.com/R-Jin)
+
+#### Name: Justin Clenista
+- Place: San Diego, California, USA
+- Bio: Software Engineer Intern
+- GitHub: [heyoitsJuice](https://github.com/heyoitsJuice)
+
