@@ -80,3 +80,7 @@
 - Bio: Software Engineer Intern
 - GitHub: [heyoitsJuice](https://github.com/heyoitsJuice)
 
+#### Name: Darshan Tawari
+- Place: India
+- Bio: Bigdata Engineer
+- GitHub: [darshant31](https://github.com/darshant31)
