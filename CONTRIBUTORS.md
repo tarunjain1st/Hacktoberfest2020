@@ -33,6 +33,12 @@
 - Bio: Student, currently in Lendi Institute of engineering and technology.
 - GitHub: [Nikhila-2001](https://github.com/NIKHILA-2001)
 
+
+#### Name: Shadman
+- Place: India
+- Bio: Engineer
+- GitHub: [Shadmanwaris](https://github.com/Shadmanwaris)
+
 #### Name: Sneha Gupta
 - Place: India
 - Bio: Student of IIIT allahbad,
@@ -63,4 +69,3 @@
 - Place: San Diego, California, USA
 - Bio: Software Engineer Intern
 - GitHub: [heyoitsJuice](https://github.com/heyoitsJuice)
-
