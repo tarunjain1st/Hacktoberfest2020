@@ -80,3 +80,8 @@
 - Bio: Software Engineer Intern
 - GitHub: [heyoitsJuice](https://github.com/heyoitsJuice)
 
+#### Name: Namanjeet Singh
+- Place: India.
+- Bio: B.Tech Student
+- GitHub: [OfficialNMN](https://github.com/OfficialNMN)
+
