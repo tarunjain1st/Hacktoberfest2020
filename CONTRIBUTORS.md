@@ -48,3 +48,8 @@
 - Place: Thailand
 - Bio: Developer
 - GitHub: [aecuto](https://github.com/aecuto)
+
+#### Name: Sudipta Das
+- Place: India
+- Bio: Engineer
+- GitHub: [Sudiptadas98](https://github.com/Sudiptadas98)
