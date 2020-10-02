@@ -37,3 +37,13 @@
 - Place: India
 - Bio: Student, currently in Indian Institute of information technology
 - GitHub: [SreyaReddy15](https://github.com/sreyareddy15)
+
+#### Name: Ryan Jin
+- Place: Gothenburg, Sweden
+- Bio: Student, currently in Chalmers University of Technology
+- GitHub: [R-Jin](https://github.com/R-Jin)
+
+#### Name: Justin Clenista
+- Place: San Diego, California, USA
+- Bio: Software Engineer Intern
+- GitHub: [heyoitsJuice](https://github.com/heyoitsJuice)
