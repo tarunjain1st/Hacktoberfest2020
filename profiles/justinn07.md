@@ -9,4 +9,4 @@ Student, currently in 9th Grade
 
 ### Profile link
 
-[Justinnn07]('https://github.com/Justinnn07')
+[Justinnn07](https://github.com/Justinnn07)
