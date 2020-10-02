@@ -33,6 +33,11 @@
 - Bio: Student, currently in Lendi Institute of engineering and technology.
 - GitHub: [Nikhila-2001](https://github.com/NIKHILA-2001)
 
+#### Name: Ryan Jin
+- Place: Gothenburg, Sweden
+- Bio: Student, currently in Chalmers University of Technology
+- GitHub: [R-Jin](https://github.com/R-Jin)
+
 #### Name: Justin Clenista
 - Place: San Diego, California, USA
 - Bio: Software Engineer Intern
