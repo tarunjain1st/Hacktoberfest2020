@@ -33,6 +33,11 @@
 - Bio: Student, currently in Lendi Institute of engineering and technology.
 - GitHub: [Nikhila-2001](https://github.com/NIKHILA-2001)
 
+#### Name: Sreya Reddy
+- Place: India
+- Bio: Student, currently in Indian Institute of information technology
+- GitHub: [SreyaReddy15](https://github.com/sreyareddy15)
+
 #### Name: Ryan Jin
 - Place: Gothenburg, Sweden
 - Bio: Student, currently in Chalmers University of Technology
