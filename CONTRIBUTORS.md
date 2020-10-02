@@ -33,6 +33,10 @@
 - Bio: Student, currently in Lendi Institute of engineering and technology.
 - GitHub: [Nikhila-2001](https://github.com/NIKHILA-2001)
 
+#### Name: Daniel
+- Place: Miami, Fl, USA
+- Bio: Student, developer, solutions architect, pythonista, wonderboy
+- GitHub: [damora-code](https://github.com/damora-code)
 
 #### Name: Shadman
 - Place: India
@@ -69,3 +73,4 @@
 - Place: San Diego, California, USA
 - Bio: Software Engineer Intern
 - GitHub: [heyoitsJuice](https://github.com/heyoitsJuice)
+
