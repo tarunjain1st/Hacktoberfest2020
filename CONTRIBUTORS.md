@@ -33,6 +33,11 @@
 - Bio: Student, currently in Lendi Institute of engineering and technology.
 - GitHub: [Nikhila-2001](https://github.com/NIKHILA-2001)
 
+#### Name: Sneha Gupta
+- Place: India
+- Bio: Student of IIIT allahbad,
+- GitHub: [sneha1010](https://github.com/sneha1010)
+
 
 #### Name: Mike
 - Place: United States
