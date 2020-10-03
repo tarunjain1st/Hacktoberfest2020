@@ -69,3 +69,8 @@
 - Place: Chennai, India
 - Bio: Full Stack Developer
 - Github: [Clement Adriean Amirrthraj](https://github.com/ACAA06)
+
+#### Name: Kevin S
+- Place: California
+- Bio: High School Student
+- Github: [SansPapyrus683](https://github.com/SansPapyrus683)
