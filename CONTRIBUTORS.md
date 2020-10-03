@@ -54,6 +54,11 @@
 - Bio: Engineer
 - GitHub: [Sudiptadas98](https://github.com/Sudiptadas98)
 
+#### Name: Sumitro Aji Prabowo
+- Place: Pemalang, Central Java, Indonesia
+- Bio: Developer
+- GitHub: [bowo_anakdesa](https://github.com/bowo-anakdesa)
+
 #### Name: Sonam T
 - Place:  India
 - Bio: Engineering student
