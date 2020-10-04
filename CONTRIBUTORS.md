@@ -83,7 +83,12 @@
 - Github: [Clement Adriean Amirrthraj](https://github.com/ACAA06)
 
 #### Name: Aniket Chauhan
-
 - Place: Gujarat, India
 - Bio: Engineering student
 - Github: [Aniket Chauhan](https://github.com/Chauhan-Aniket)
+
+#### Name: Kevin S
+- Place: California
+- Bio: High School Student
+- Github: [SansPapyrus683](https://github.com/SansPapyrus683)
+
