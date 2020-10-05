@@ -92,3 +92,7 @@
 - Bio: High School Student
 - Github: [SansPapyrus683](https://github.com/SansPapyrus683)
 
+#### Name: Simon Schindlatz
+- Place Bavaria, Germany
+- Bio: Web-Developer
+- GitHub: [SimonUR](https://github.com/SimonUR)
