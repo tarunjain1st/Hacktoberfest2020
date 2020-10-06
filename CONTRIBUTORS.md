@@ -97,3 +97,7 @@
 - Bio: Engineering Student
 - Github: [pixelcode009](https://github.com/pixelcode009)
 
+#### Name: Simon Schindlatz
+- Place Bavaria, Germany
+- Bio: Web-Developer
+- GitHub: [SimonUR](https://github.com/SimonUR)
