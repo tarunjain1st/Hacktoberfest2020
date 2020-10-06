@@ -102,6 +102,11 @@
 - Bio: Web-Developer
 - GitHub: [SimonUR](https://github.com/SimonUR)
 
+#### Name: Vishvam Bhatt
+- Place Ahmedabad, Gujarat, India
+- Bio: Data Science Enthusiast
+- GitHub: [Vishvam04](https://github.com/Vishvam04)
+
 #### Name: Bharath C S
 - Place : Bangalore ,India
 - Bio: Data Science Enthu
