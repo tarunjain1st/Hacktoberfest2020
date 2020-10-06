@@ -112,3 +112,9 @@
 - Bio: Data Science Enthu
 - GitHub: [Bharath-acchu](https://github.com/bharath-acchu)
 
+#### Name: Juli Cheng
+- Place : Manchester, UK
+- Bio: Front-end developer
+- GitHub: [Juli Cheng](https://github.com/julicheng)
+
+
