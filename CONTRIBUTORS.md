@@ -92,6 +92,11 @@
 - Bio: High School Student
 - Github: [SansPapyrus683](https://github.com/SansPapyrus683)
 
+#### Name: Aroma Jain
+- Place: India
+- Bio: Engineering Student
+- Github: [pixelcode009](https://github.com/pixelcode009)
+
 #### Name: Simon Schindlatz
 - Place Bavaria, Germany
 - Bio: Web-Developer
@@ -101,3 +106,9 @@
 - Place Ahmedabad, Gujarat, India
 - Bio: Data Science Enthusiast
 - GitHub: [Vishvam04](https://github.com/Vishvam04)
+
+#### Name: Bharath C S
+- Place : Bangalore ,India
+- Bio: Data Science Enthu
+- GitHub: [Bharath-acchu](https://github.com/bharath-acchu)
+
