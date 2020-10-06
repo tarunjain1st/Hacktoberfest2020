@@ -101,3 +101,9 @@
 - Place Bavaria, Germany
 - Bio: Web-Developer
 - GitHub: [SimonUR](https://github.com/SimonUR)
+
+#### Name: Bharath C S
+- Place : Bangalore ,India
+- Bio: Data Science Enthu
+- GitHub: [Bharath-acchu](https://github.com/bharath-acchu)
+
