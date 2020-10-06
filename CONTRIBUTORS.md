@@ -92,6 +92,11 @@
 - Bio: High School Student
 - Github: [SansPapyrus683](https://github.com/SansPapyrus683)
 
+#### Name: Aroma Jain
+- Place: India
+- Bio: Engineering Student
+- Github: [pixelcode009](https://github.com/pixelcode009)
+
 #### Name: Simon Schindlatz
 - Place Bavaria, Germany
 - Bio: Web-Developer
