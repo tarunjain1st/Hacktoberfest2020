@@ -117,4 +117,7 @@
 - Bio: Front-end developer
 - GitHub: [Juli Cheng](https://github.com/julicheng)
 
-
+### Name: Julien Perce
+- Place : Chicago, IL, US
+- Bio : High School Student
+- Github : [julienperce](https://github.com/julienperce)
