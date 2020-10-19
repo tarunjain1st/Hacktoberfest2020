@@ -132,3 +132,8 @@
 - Place: Liptovsky Mikulas, Slovakia
 - Bio: Student of IT at Comenius university
 - GitHub: [Habuon](https://github.com/Habuon)
+
+#### Name: [Mohan](https://github.com/stone-dr)
+- Place: New Delhi, Delhi, India
+- Bio: A newbie trying his hands on open source
+- GitHub: [stone-dr](https://github.com/stone-dr)
