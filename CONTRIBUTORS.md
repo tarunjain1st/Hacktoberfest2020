@@ -127,3 +127,8 @@
 - Place : Delhi, India
 - Bio : Data Science Enthusiast
 - GitHub : [akshatsood2249](https://github.com/akshatsood2249)
+
+#### Name: Daniel Trizna
+- Place: Liptovsky Mikulas, Slovakia
+- Bio: Student of IT at Comenius university
+- GitHub: [Habuon](https://github.com/Habuon)
