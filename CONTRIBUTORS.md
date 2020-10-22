@@ -137,3 +137,8 @@
 - Place: New Delhi, Delhi, India
 - Bio: A newbie trying his hands on open source
 - GitHub: [stone-dr](https://github.com/stone-dr)
+
+#### Name: [Nirjal](https://github.com/n1rjal)
+- Place: Kathmandu, Nepal
+- Bio: A Noob coder
+- Github:  [n1rjal](https://github.com/n1rjal)
