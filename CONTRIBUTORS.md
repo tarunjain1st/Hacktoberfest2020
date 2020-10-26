@@ -142,3 +142,8 @@
 - Place: Kathmandu, Nepal
 - Bio: A Noob coder
 - Github:  [n1rjal](https://github.com/n1rjal)
+
+#### Name: Fikri Aufaa Zain(https://github.com/fikriazain)
+- Place: Bogor, Indonesia
+- Bio: A college student who interest in data science
+- Github:  [n1rjal](https://github.com/fikriazain)
