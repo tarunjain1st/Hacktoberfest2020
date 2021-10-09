@@ -1,3 +1,9 @@
+#### Name: Akshay Tomar
+
+- Place: Bareilly,Uttarpradesh
+- Bio: BCA Undergrad at Amrita University
+- Github: [akshaytomarocs](https://github.com/akshaytomarocs)
+
 #### Name: Sheetal
 - Place: pune,maharashtra,india
 - Bio: engineer
